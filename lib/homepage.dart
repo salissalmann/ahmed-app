@@ -307,8 +307,8 @@ class _ChatScreenState extends State<ChatScreen> {
         Uri.parse('https://api.openai.com/v1/chat/completions'),
         headers: {
           'Content-Type': 'application/json',
-          'Authorization':
-              'Bearer sk-proj-VPweT7AtZxI76NGCZXrCT3BlbkFJ5Q8QkTDxCT459JqIb7cz',
+          'Authorization': "Bearer sk-pro",
+              // 'Bearer sk-proj-VPweT7AtZxI76NGCZXrCT3BlbkFJ5Q8QkTDxCT459JqIb7cz',
         },
         body: jsonEncode({
           'model': 'ft:gpt-3.5-turbo-0613:personal::9XR79SX8',
