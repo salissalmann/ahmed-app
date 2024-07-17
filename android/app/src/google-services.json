@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "828409462960",
+    "project_id": "e-psychologist-6db57",
+    "storage_bucket": "e-psychologist-6db57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828409462960:android:022efc04c1d5c71f7bfb75",
+        "android_client_info": {
+          "package_name": "com.epsychology.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828409462960-1vd8j4ufgp8dmplla1nra23stt9gtm7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClp3jgm8wa3AcIXlF-5aKT-qEzmHBTFvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828409462960-1vd8j4ufgp8dmplla1nra23stt9gtm7b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "828409462960-g17lhtno9v9re33tn1nc3q32gn3d1aua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ePsychologist"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828409462960:android:eed83aef6a5177017bfb75",
+        "android_client_info": {
+          "package_name": "com.example.ePsychologist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828409462960-1vd8j4ufgp8dmplla1nra23stt9gtm7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClp3jgm8wa3AcIXlF-5aKT-qEzmHBTFvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828409462960-1vd8j4ufgp8dmplla1nra23stt9gtm7b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "828409462960-g17lhtno9v9re33tn1nc3q32gn3d1aua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ePsychologist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
